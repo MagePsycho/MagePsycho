@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SEO for my Plugins](https://www.magepsycho.com/extensions/magento-2.html)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://www.magepsycho.com/](https://www.magepsycho.com/)
 
