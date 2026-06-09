@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/rajkbnp" target="blank"><img src="https://img.shields.io/twitter/follow/rajkbnp?logo=twitter&style=for-the-badge" alt="rajkbnp" /></a> </p>
 <p align="left"> <a href="https://twitter.com/magepsycho" target="blank"><img src="https://img.shields.io/twitter/follow/magepsycho?logo=twitter&style=for-the-badge" alt="magepsycho" /></a> </p>
 
-- 🔭 I’m currently working on [SEO for my Plugins](https://www.magepsycho.com/extensions/magento-2.html)
+- 🔭 I’m currently working on [MageSmith - a Dev Toolkit](https://magesmith.app/)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently deep-diviing **Golang**
 
 - 👨‍💻 All of my projects are available at [https://www.magepsycho.com/](https://www.magepsycho.com/)
 
