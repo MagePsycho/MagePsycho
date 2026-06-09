@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magepsycho&label=Profile%20views&color=0e75b6&style=flat" alt="magepsycho" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magepsycho" alt="magepsycho" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/magepsycho" target="blank"><img src="https://img.shields.io/twitter/follow/magepsycho?logo=twitter&style=for-the-badge" alt="magepsycho" /></a> </p>
 
 - 🔭 I’m currently working on [SEO for my Plugins](https://www.magepsycho.com/extensions/magento-2.html)
