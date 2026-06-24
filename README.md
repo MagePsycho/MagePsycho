@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://blog.magepsycho.com](https://blog.magepsycho.com)
 
-- 💬 Ask me about **PHP, Magento, Linux, DBA, DevOps, SaaS**
+- 💬 Ask me about **PHP, Magento, Go, NodeJs, Linux, DBA, DevOps, SaaS**
 
 - 📫 Drop your queries at [https://www.magepsycho.com/contact](https://www.magepsycho.com/contact)
 
