@@ -1,24 +1,36 @@
-<h1 align="center">Hi, I am Raj KB 👋</h1>
-<h3 align="center">A passionate full-stack developer & indie hacker</h3>
+<h1 align="center">Hi, I am Raj KB (aka MagePsycho) 👋</h1>
+<h3 align="center">Senior Software Engineer & Technical Lead · Magento / Adobe Commerce Architect</h3>
+<p align="center">18 years in software · 14+ years in eCommerce · PHP · Symfony · Laravel · Node.js · Go · AWS · AI-assisted development</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magepsycho&label=Profile%20views&color=0e75b6&style=flat" alt="magepsycho" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajkbnp" target="blank"><img src="https://img.shields.io/twitter/follow/rajkbnp?logo=twitter&style=for-the-badge" alt="rajkbnp" /></a> </p>
 <p align="left"> <a href="https://twitter.com/magepsycho" target="blank"><img src="https://img.shields.io/twitter/follow/magepsycho?logo=twitter&style=for-the-badge" alt="magepsycho" /></a> </p>
 
-- 🔭 I’m currently working on [MageSmith - a Dev Toolkit](https://magesmith.app/)
+- 💼 **Open to new opportunities** — senior individual-contributor and Technical Lead / Solution Architect roles (freelance/contract or full-time)
 
-- 🌱 I’m currently deep-diviing **Golang**
+- 🔭 I'm currently building [MageSmith — an AI-powered Dev Toolkit for Magento](https://magesmith.app/)
+
+- 🌱 I'm going deep on **Golang**, **Node.js / NestJS**, and **AI-assisted development** (Claude Code, agents, MCP, RAG)
+
+- 🏗️ I build, scale, and rescue high-traffic **Magento / Adobe Commerce** platforms across the UAE & GCC
 
 - 👨‍💻 All of my projects are available at [https://www.magepsycho.com/](https://www.magepsycho.com/)
 
 - 📝 I regularly write articles on [https://blog.magepsycho.com](https://blog.magepsycho.com)
 
-- 💬 Ask me about **PHP, Magento, Go, NodeJs, Linux, DBA, DevOps, SaaS**
+- 💬 Ask me about **PHP, Magento / Adobe Commerce, Go, Node.js, Linux, DBA, DevOps, SaaS**
 
 - 📫 Drop your queries at [https://www.magepsycho.com/contact](https://www.magepsycho.com/contact)
 
 - 📄 Know about my experiences [https://www.magepsycho.com/about-us](https://www.magepsycho.com/about-us)
+
+### 🚀 Recent Builds & Experiments
+
+- [MageSmith](https://magesmith.app/) — AI-powered dev toolkit for Magento
+- [Laravel Fintech Demo](https://github.com/MagePsycho/laravel-fintech-demo) — hands-on Fintech build in Laravel
+- [B2B SaaS](https://github.com/MagePsycho/b2b-saas) — multi-tenant B2B platform in Node.js / NestJS
+- [Sport Ticketing SaaS](https://github.com/MagePsycho/sport-ticketing-saas) — multi-tenant ticketing in Node.js / Next.js
 
 ### Adobe Magento Extensions
 
@@ -44,9 +56,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rajkbnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkbnp" height="30" width="40" /></a>
 <a href="https://dev.to/magepsycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="magepsycho" height="30" width="40" /></a>
 <a href="https://twitter.com/magepsycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="magepsycho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/magepsycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magepsycho" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/887385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="887385" height="30" width="40" /></a>
 <a href="https://hashnode.com/@magepsycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@magepsycho" height="30" width="40" /></a>
 <a href="https://medium.com/@magepsycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@magepsycho" height="30" width="40" /></a>
