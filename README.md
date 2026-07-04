@@ -53,6 +53,10 @@
 - [Magento 2 Product Discount Label](https://www.magepsycho.com/magento2-product-discount-label.html)
 - [Magento 2 Store View Pricing](https://www.magepsycho.com/magento2-store-view-pricing.html)
 - [Magento 2 Disable Registration](https://www.magepsycho.com/magento2-disable-customer-registration.html)
+- [Magento 2 SEO Suite](https://www.magepsycho.com/magento2-free-seo-suite.html)
+- [Magento 2 Product Discount Label](https://www.magepsycho.com/magento2-product-discount-label.html)
+- [Magento 2 Enhanced Order Grid](https://www.magepsycho.com/magento2-enhanced-admin-order-grid.html)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
