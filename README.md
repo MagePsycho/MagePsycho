@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Raj KB (aka MagePsycho) 👋</h1>
+<h1 align="center">Hi, I am Raj👋</h1>
 <h3 align="center">Senior Software Engineer & Technical Lead · Magento / Adobe Commerce Architect</h3>
 <p align="center">18 years in software · 14+ years in eCommerce · PHP · Symfony · Laravel · Node.js · Go · AWS · AI-assisted development</p>
 
