@@ -72,8 +72,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/magepsycho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="magepsycho" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magepsycho&show_icons=true&locale=en&layout=compact" alt="magepsycho" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magepsycho&show_icons=true&locale=en" alt="magepsycho" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magepsycho&" alt="magepsycho" /></p>
